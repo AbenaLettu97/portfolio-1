@@ -146,6 +146,10 @@ section{
     gap: 5rem;
     height: 80vh;
 }
+
+.profile-image {
+    border-radius: 50%;
+}
 .section_pic-container{
     display: flex;
     height: 400px;
